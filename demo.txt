@@ -1,4 +1,6 @@
 Hii Prashant singh Sir learn git rebase
+this is change regarding feature first
+second
 add one more commit
 add second commit
 this is change regarding feature first
